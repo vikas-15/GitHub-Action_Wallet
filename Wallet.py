@@ -16,9 +16,9 @@ class Wallet(object):
         self.balance += amount
 
 if __name__=="__main__":
-    ob1=Wallet(100)
-    print(ob1.balance)
-    ob1.add_cash(20)
-    print(ob1.balance)
+    ob1=Wallet()
+    print("initial balance",ob1.balance)
+    ob1.add_cash(35000)
+    print("after deposite",ob1.balance)
     ob1.spend_cash(80)
-    print(ob1.balance)
+    print("After Spending",ob1.balance)
