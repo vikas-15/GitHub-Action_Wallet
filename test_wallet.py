@@ -8,7 +8,7 @@ def test_default_initial_amount():
 
 def test_setting_initial_amount():
     wallet = Wallet(100)
-    assert wallet.balance == 100
+    assert wallet.balance == 120
 
 def test_wallet_add_cash():
     wallet = Wallet(10)
