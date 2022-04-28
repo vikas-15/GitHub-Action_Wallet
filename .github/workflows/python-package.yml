@@ -66,5 +66,5 @@ jobs:
         with:
           user: Vikas-15
           password: Saurabh48@@$$$$
-          repository_url: https://test.pypi.org/legacy/
+          repository_url: https://test.pypi.org/legacy/dist*
       
