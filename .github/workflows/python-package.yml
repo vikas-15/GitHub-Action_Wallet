@@ -64,7 +64,7 @@ jobs:
       - name: Publish distribution to Test PyPI
         uses: pypa/gh-action-pypi-publish@27b31702a0e7fc50959f5ad993c78deac1bdfc29
         with:
-          user: __token__
-          password: pypi-AgEIcHlwaS5vcmcCJDE1NTNiOGY3LTk5OGYtNDQ5Zi04YWRiLWQ0ZDU4ODJjZGY2NAACJXsicGVybWlzc2lvbnMiOiAidXNlciIsICJ2ZXJzaW9uIjogMX0AAAYgFNcT0xA97u7qgvs5Hqed0KuMTzYVNchkZ31uNkh9dak
+          user: Vikas-15
+          password: Saurabh48@@$$$$
           repository_url: https://test.pypi.org/legacy/
       
