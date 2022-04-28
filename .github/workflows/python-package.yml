@@ -66,4 +66,5 @@ jobs:
         with:
           user: viaksbhardwaj020@gmail.com
           password: Saurabh48@@$$$$
+          repository_url: https://test.pypi.org/legacy/
       
