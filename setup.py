@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="Wallet",
+    name="Wallet-Vikas-15",
     version="0.0.5",
     author="Vikas Bhardwaj",
     author_email="viaksbhardwaj020@gmail.com",
